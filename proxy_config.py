@@ -52,6 +52,7 @@ DISPATCH_DOMAINS = [
     "log-upload.mihoyo.com",
     "log-upload-os.mihoyo.com",
     "log-upload-os.hoyoverse.com",
+    "ys-log-upload.mihoyo.com",
     "uspider.yuanshen.com",
     "overseauspider.yuanshen.com",
     "api-beta-sdk.mihoyo.com",
