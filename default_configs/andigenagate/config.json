@@ -1,0 +1,35 @@
+{
+  "serverAddress": "127.0.0.1",
+  "serverPort": 669,
+  "serverDomain": "",
+  "disableRegistration": false,
+  "allowGuestAccounts": false,
+  "allowQRCodeLogin": true,
+  "requireRealname": false,
+  "verifyAccountEmail": true,
+  "verifyAccountPassword": true,
+  "socialLogin": {
+    "facebook": {
+      "enabled": true,
+      "url": "https://google.com"
+    },
+    "twitter": {
+      "enabled": true,
+      "url": "https://google.com"
+    },
+    "discordQR": {
+      "enabled": true,
+      "url": "http://127.0.0.1:669/Api/login_by_qr",
+      "callbackUrl": "http://127.0.0.1:669/Api/login_by_qr/callback"
+    }
+  },
+  "advanced": {
+    "weedWackerCompatibility": false,
+    "disableYSDKGuard": false,
+    "enableAnnouncePicPopup": true,
+    "uidPrefix": "8",
+    "cryptography": {
+      "accountPasswordHashRounds": 10
+    }
+  }
+}
