@@ -1,6 +1,10 @@
 # andigenaconfigs
 Various utility scripts and config files for andigena.
 
+## NOTICE
+> [!WARNING]  
+> This repository is now a public archive due to config files and stuff being shipped with their project repositories or using alternatives to achieve what these scripts do.
+
 ## Default configs for microservices
 
 1. [AndigenaDispatch](/default_configs/andigenadispatch)
